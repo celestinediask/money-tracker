@@ -5,19 +5,21 @@ A lightweight open-source expense tracker designed for students and individuals 
 ## 🗺️ Roadmap
 See the [ROADMAP.md](ROADMAP.md) for upcoming features and development plans.
 
+<!--
 ## 🚀 Features
 - 💰 Add, edit, and delete expenses
 - 📊 View spending by category or date
 - ☁️ Cloud sync support (optional)
 - 📱 Responsive design for mobile & desktop
 - 🧩 Export data to CSV
+-->
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML + CSS + JS
 - **Backend:** Go
 - **Database:** Postgres
 - **Hosting:** Netlify
-
+<!--
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Prerequisites
@@ -77,25 +79,21 @@ Run specific tests:
 ```bash
 go test -v ./internal/db
 ```
-
----
+-->
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## ⭐ Support
 
 If you find this project useful, please **star the repo** — it helps others discover it!
 
----
 
 ## 👨‍💻 Maintainers
 
 * [Celestine](https://github.com/celestinediask)
-* Contributors welcome!
 
 
 ## 🤝 Contributing
@@ -109,4 +107,4 @@ If you'd like to help improve this project:
 
 Everyone is welcome — whether it's fixing bugs, improving docs, or adding new features!
 
----
+
