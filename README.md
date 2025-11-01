@@ -2,6 +2,9 @@
 
 A lightweight open-source expense tracker designed for students and individuals to manage their daily spending with ease.
 
+## 🗺️ Roadmap
+See the [ROADMAP.md](ROADMAP.md) for upcoming features and development plans.
+
 ## 🚀 Features
 - 💰 Add, edit, and delete expenses
 - 📊 View spending by category or date
