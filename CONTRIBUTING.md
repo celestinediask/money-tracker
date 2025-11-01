@@ -1,8 +1,6 @@
-# Contributing to MyProject
+# Contributing
 
 🎉 First off, thanks for taking the time to contribute! Your help makes this project better.
-
----
 
 ## 🪄 How to Contribute
 
@@ -48,15 +46,11 @@
    * Click “Compare & pull request”.
    * Describe clearly what your PR does.
 
----
-
 ## 🧩 Code Style
 
 * Follow consistent formatting.
 * Use clear variable and function names.
 * Keep commits small and focused.
-
----
 
 ## 🐞 Reporting Issues
 
@@ -65,8 +59,6 @@ If you find a bug:
 * Open a new issue.
 * Include steps to reproduce, expected vs. actual behavior, and screenshots if possible.
 
----
-
 ## 💡 Suggestions
 
 Have an idea or improvement?
@@ -74,10 +66,6 @@ Have an idea or improvement?
 * Open an issue labeled `enhancement` or `feature request`.
 * Describe your idea and why it’s useful.
 
----
-
 ## ❤️ Thank You
 
 Your contributions — no matter how small — make a big difference!
-
-```
